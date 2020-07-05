@@ -1,0 +1,36 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-08T11:01:16.998Z",
+        "line": 4,
+        "name": "Verification of selection of least price in one way mode",
+        "description": "",
+        "id": "selection-of-least-price-in-one-way-mode;verification-of-selection-of-least-price-in-one-way-mode",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9599914400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Traveller invokes Goibibo Home Page",
+            "match": {
+              "location": "goibiboTests.sample.sample()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "selection of least price in one way mode",
+    "description": "",
+    "id": "selection-of-least-price-in-one-way-mode",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/goibiboTests/goibibo_Test01_VerifySelectionOfLeatPriceOneWay.feature",
+    "tags": []
+  }
+]
